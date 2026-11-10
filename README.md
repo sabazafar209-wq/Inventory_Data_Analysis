@@ -1,4 +1,3 @@
-# Inventory_Data_Analysis
 # 📊 Inventory Management Dashboard (Excel)
 
 ## 🔹 Project Overview
@@ -23,13 +22,14 @@ The goal of this project is to:
 * Microsoft Excel
 * Pivot Tables & Pivot Charts
 * Slicers & Timeline Filters
-* VBA (for dashboard automation)
 
 ---
 
 ## 📂 Dataset Description
 
-The dataset consists of **2000 rows of simulated inventory data** with the following attributes:
+**Data source:** simulated inventory data (2,000 rows) created for practice. All figures and insights below describe this simulated data, not a real company.
+
+The dataset contains the following attributes:
 
 * Date
 * Product ID & Product Name
@@ -71,6 +71,12 @@ The dataset consists of **2000 rows of simulated inventory data** with the follo
 
 ---
 
+## 🖼️ Dashboard Preview
+
+![Excel inventory management dashboard](inventory_image.png)
+
+---
+
 ## 🔍 Key Insights
 
 * Total sales reached **136,024 units**, indicating steady demand with seasonal variation
@@ -96,7 +102,6 @@ The dataset consists of **2000 rows of simulated inventory data** with the follo
 
 * Hands-on experience in building **interactive dashboards in Excel**
 * Strong understanding of **inventory and supply chain KPIs**
-* Use of VBA for automating dashboard layout and charts
 * Applying business thinking to derive actionable insights
 
 ---
@@ -107,9 +112,17 @@ This project demonstrates the ability to transform raw data into a **meaningful 
 
 ---
 
-## 📎 Author
+## 👩‍💻 Author
 
 **Saba Zafar**
-Aspiring Data Analyst | Excel | SQL | Python | Power BI
+Data Analyst & Learning Analytics Researcher
+
+* Portfolio: [sabazafar209-wq.github.io/sabazafar.github.io](https://sabazafar209-wq.github.io/sabazafar.github.io/)
+* ORCID: [0009-0002-3922-176X](https://orcid.org/0009-0002-3922-176X)
+* Email: sabazafar209@gmail.com
 
 ---
+
+## 📄 License
+
+Released under the [MIT License](LICENSE).
